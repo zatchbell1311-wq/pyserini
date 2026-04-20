@@ -502,4 +502,4 @@ Before you move on, however, add an entry in the "Reproduction Log" at the botto
 + Results reproduced by [@ShanaxWorld](https://github.com/ShanaxWorld) on 2026-03-27 (commit [`59dfd0e`](https://github.com/castorini/pyserini/commit/59dfd0e363681691efad161fac8cc734c2ebebb8))
 + Results reproduced by [@egekaya1](https://github.com/egekaya1) on 2026-03-29 (commit [`59dfd0e`](https://github.com/castorini/pyserini/commit/59dfd0e363681691efad161fac8cc734c2ebebb8))
 + Results reproduced by [@h79yan](https://github.com/h79yan) on 2026-04-11 (commit [`b973a40`](https://github.com/castorini/pyserini/commit/b973a40904cde63a23257b9342a6b786ea43d52e))
-+ Results reproduced by [@zatchbell1311-wq](https://github.com/zatchbell1311-wq) on 2026-04-18 (commit [`b823fb0`](https://github.com/castorini/pyserini/commit/b823fb0af8c48e5a5163949dd499271336fe8f63))
++ Results reproduced by [@zatchbell1311-wq](https://github.com/zatchbell1311-wq) on 2026-04-18 (commit [`2b7d9a9`](https://github.com/castorini/pyserini/commit/2b7d9a9)) (Lenovo laptop, Ubuntu 24.04 via WSL2 on Windows 11, Python 3.10, Java 21, used Anserini fatjar due to WSL2/Hyper-V memory constraints, MRR@10 0.1840)
